@@ -1,0 +1,86 @@
+.love {
+  font-size: 30px;
+  color: rgb(252, 251, 248);
+  font-family: gabriola;
+} 
+  
+.links {
+  list-style: none;
+    text-decoration: none;
+    display: flex;
+   color: #f5f5f5;
+   font-size: 15px;
+  font-family: Open Sans,sans-serif;  
+}
+  
+.li {
+  text-decoration: none;
+    display: flex;
+
+}
+
+.hearts {
+
+  
+    
+}
+
+ul li a { 
+  display: flex;
+  text-decoration: none;
+  padding-right: 25px;
+  color: rgb(253, 252, 252);
+}
+
+.b {
+  background-color: rgb(44, 197, 90);
+    justify-content: space-between;
+    display: flex;
+    padding: 8px; 
+}
+    
+
+.hi {
+color:aliceblue;
+font-size: 60px;
+font-family: gabriola;
+}
+
+.footer {
+  text-align: center;
+  padding: 2px;
+  background-color: rgb(44, 197, 90);
+  display: block;
+  color: white;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.body {
+  background-image: url(OIP.jfif) ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: auto;
+}
+
+.hey {
+  color: rgb(44, 197, 90);
+font-size: 30px;
+font-family: pristina;
+
+}
+
+.us {
+  height: 200px;
+    width: 700px;
+    
+
+    position: fixed;
+    top: 30%;
+    left: 20%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
